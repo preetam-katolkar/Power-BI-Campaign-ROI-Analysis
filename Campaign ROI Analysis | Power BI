@@ -1,0 +1,77 @@
+📊 Campaign ROI Analysis | Power BI
+
+📌 Project Overview
+
+This project focuses on analyzing the performance of marketing campaigns by evaluating their Return on Investment (ROI).
+The goal is to help businesses identify which campaigns generate the highest returns and where marketing budgets can be optimized.
+Using Power BI, this project transforms raw campaign data into an interactive and insightful dashboard that supports data-driven marketing decisions.
+
+🎯 Business Objectives
+Measure ROI for each marketing campaign
+Compare campaign cost vs revenue
+Identify high-performing and underperforming campaigns
+Analyze campaign performance across channels and time periods
+Support marketing teams in budget optimization
+🧮 Key Metrics (KPIs)
+Total Campaign Cost
+Total Revenue
+ROI (%)
+Conversion Rate
+Cost per Conversion
+Revenue Trend Over Time
+ROI Formula Used:
+
+ROI (%) = (Revenue - Campaign Cost) / Campaign Cost * 100
+
+🛠 Tools & Technologies
+Power BI – Dashboard creation & data modeling
+Excel / CSV – Data source
+DAX – KPI calculations
+Power Query – Data cleaning & transformation
+
+📈 Dashboard Features
+Interactive KPI cards for Cost, Revenue, and ROI
+Campaign-wise ROI comparison
+Channel-wise performance analysis
+Time-based trend analysis (monthly / quarterly)
+Filters & slicers for dynamic data exploration
+
+🔍 Data Analysis Process
+Data Cleaning
+Removed duplicates and missing values
+Standardized date and campaign fields
+Data Modeling
+Created relationships between campaign, cost, and revenue tables
+DAX Calculations
+ROI %
+Cost per Conversion
+Total Revenue and Total Cost
+Visualization
+Bar charts for campaign comparison
+Line charts for revenue & ROI trends
+KPI cards for summary metrics
+
+💡 Key Insights
+Identified campaigns delivering the highest ROI with lower spending
+Highlighted campaigns with high cost but low returns
+Found channels with better conversion efficiency
+Seasonal trends affecting campaign performance
+
+📊 Business Impact
+Improved marketing budget allocation
+Reduced spending on low-performing campaigns
+Enhanced ROI-focused decision making
+Provided clear visibility into campaign effectiveness
+
+🚀 Future Enhancements
+Add customer segmentation analysis
+Integrate real-time campaign data
+Include predictive ROI modeling
+Automate data refresh
+📎 Project Type
+Portfolio Project – Data Analytics / Power BI
+
+🏁 Conclusion
+This project demonstrates practical experience in marketing analytics,
+KPI-driven dashboards, and ROI evaluation using Power BI. It reflects real-world business use cases relevant for Data Analyst and Power BI Developer roles.
+This project demonstrates practical experience in marketing analytics, KPI-driven dashboards, and ROI evaluation using Power BI. It reflects real-world business use cases relevant for Data Analyst and Power BI Developer roles.
